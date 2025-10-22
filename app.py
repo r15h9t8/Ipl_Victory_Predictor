@@ -1,7 +1,7 @@
 # importing the libraries 
 import streamlit as st 
 import pickle as pkl 
-import pandas as pd 
+import pandas as pd
 
 # having a wide page layout
 st.set_page_config(layout="wide")
